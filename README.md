@@ -4,7 +4,7 @@ Golang package for sending email from smtp server.
 Can use auth on smtp server and connect without authorization.
 
 ## Instalation
-`go get https://github.com/skvdmt/email`
+`go get github.com/skvdmt/email`
 
 ## Usage
 
